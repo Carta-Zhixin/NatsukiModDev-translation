@@ -4,7 +4,7 @@
 translate chinese weather_change_c43ac6e2:
 
     # n 1fcsaj "Well,{w=1}{nw}"
-    n 1fcsaj ""
+    n 1fcsaj "所以，{w=1}{nw}"
 
 # game/atmosphere.rpy:621
 translate chinese weather_change_b6efd697:
@@ -167,4 +167,3 @@ translate chinese weather_change_d244185e:
 
     # extend 4uchgnledz " It's snowing!{w=3}{nw}"
     extend 4uchgnledz ""
-
