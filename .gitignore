@@ -551,3 +551,6 @@ game/*.rpa
 characters/*
 game/firstrun
 README.html
+game/cache/**.*
+*.log
+*.txt
