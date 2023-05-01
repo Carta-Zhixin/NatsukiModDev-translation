@@ -15,7 +15,7 @@ style hotkeys_text:
     outlines [(3, "#000000aa", 0, 0)]
     xalign 0.0
     yalign 0.5
-    
+
     line_overlap_split 8
     line_spacing 8
     line_leading 8
@@ -35,12 +35,12 @@ screen hotkeys():
                     null height 20
                     style_prefix "hotkeys"
                     grid 2 8:
-                        xoffset 20                
+                        xoffset 20
                         spacing 10
 
                         text _("Talk")
                         text _("T")
-                        
+
                         text _("Music")
                         text _("M")
 
@@ -71,7 +71,7 @@ screen hotkeys():
                         null height 20
                         style_prefix "hotkeys"
                         grid 2 3:
-                            xoffset 20                
+                            xoffset 20
                             spacing 10
 
                             text _("Place")
@@ -127,7 +127,7 @@ style categorized_menu_button_text_italic is categorized_menu_button_text:
     italic True
 
 screen categorized_menu(menu_items, category_pane_space, option_list_space, category_length):
-    at categorized_menu_slide_in_right
+    #at categorized_menu_slide_in_right
     style_prefix "categorized_menu"
 
     #Just entered this menu so just need to list categories
@@ -806,7 +806,7 @@ screen indicator(message):
 
 screen navigation():
     $ config.mouse = None
-    
+
     vbox:
         style_prefix "navigation"
 
@@ -1456,7 +1456,7 @@ screen history():
         for h in _history_list:
 
             window:
-                
+
                 ## This lays things out properly if history_height is None.
                 has fixed:
                     yfit True
