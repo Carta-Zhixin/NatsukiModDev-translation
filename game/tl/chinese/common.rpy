@@ -4,187 +4,187 @@ translate chinese strings:
 
     # 00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}星期一"
 
     # 00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}星期二"
 
     # 00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}星期三"
 
     # 00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}星期四"
 
     # 00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}星期五"
 
     # 00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}星期六"
 
     # 00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}星期天"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday_short}周一"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}周二"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}周三"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}周四"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}周五"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}周六"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}周日"
 
     # 00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}一月"
 
     # 00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}二月"
 
     # 00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}三月"
 
     # 00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}四月"
 
     # 00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}五月"
 
     # 00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}六月"
 
     # 00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}七月"
 
     # 00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}八月"
 
     # 00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}九月"
 
     # 00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}十月"
 
     # 00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}十一月"
 
     # 00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}十二月"
 
     # 00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}一月"
 
     # 00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}二月"
 
     # 00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "{#month_short}三月"
 
     # 00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}四月"
 
     # 00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "{#month_short}五月"
 
     # 00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}六月"
 
     # 00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}七月"
 
     # 00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}八月"
 
     # 00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}九月"
 
     # 00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}十月"
 
     # 00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "{#month_short}十一月"
 
     # 00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}十二月"
 
     # 00action_file.rpy:237
     old "%b %d, %H:%M"
-    new ""
+    new "%b %d, %H:%M"
 
     # 00action_file.rpy:344
     old "Save slot %s: [text]"
-    new ""
+    new "保存槽%s: [text]"
 
     # 00action_file.rpy:417
     old "Load slot %s: [text]"
-    new ""
+    new "加载槽%s: [text]"
 
     # 00action_file.rpy:459
     old "Delete slot [text]"
-    new ""
+    new "删除槽%s: [text]"
 
     # 00action_file.rpy:539
     old "File page auto"
-    new ""
+    new "自动翻页"
 
     # 00action_file.rpy:541
     old "File page quick"
-    new ""
+    new "快速翻页"
 
     # 00action_file.rpy:543
     old "File page [text]"
-    new ""
+    new "页[text]"
 
     # 00action_file.rpy:601
     old "Page {}"
-    new ""
+    new "页码{}"
 
     # 00action_file.rpy:601
     old "Automatic saves"
@@ -1041,4 +1041,3 @@ translate chinese strings:
     # _errorhandling.rpym:667
     old "Copies the errors.txt file to the clipboard."
     new ""
-
