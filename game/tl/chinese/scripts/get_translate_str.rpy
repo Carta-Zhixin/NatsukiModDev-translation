@@ -8,9 +8,9 @@ init -999 python in tl_str:
         except:
             return astr
     r_RANDOM_TOPIC_FREQUENCY_DESC_MAP = {
-        "Never":"",
-        "Rarely","",
-        "Sometimes","",
-        "Frequent","",
-        "Often",""
+        "never":"",
+        "rarely","",
+        "sometimes","",
+        "frequent","",
+        "often",""
     }
