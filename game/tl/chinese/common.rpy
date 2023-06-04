@@ -668,376 +668,376 @@ translate chinese strings:
 
     # _developer\inspector.rpym:61
     old "Size"
-    new ""
+    new "大小"
 
     # _developer\inspector.rpym:65
     old "Style"
-    new ""
+    new "样式"
 
     # _developer\inspector.rpym:71
     old "Location"
-    new ""
+    new "位置"
 
     # _developer\inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new ""
+    new "检查[displayable_name!q]样式"
 
     # _developer\inspector.rpym:139
     old "displayable:"
-    new ""
+    new "可显示："
 
     # _developer\inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new ""
+    new "        (任何属性都不影响可显示)"
 
     # _developer\inspector.rpym:147
     old "        (default properties omitted)"
-    new ""
+    new "        (默认属性省略)"
 
     # _developer\inspector.rpym:185
     old "<repr() failed>"
-    new ""
+    new "<repr() failed>"
 
     # _layout\classic_load_save.rpym:170
     old "a"
-    new ""
+    new "a"
 
     # _layout\classic_load_save.rpym:179
     old "q"
-    new ""
+    new "q"
 
     # 00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "正在连接应用商店\n请稍等..."
 
     # 00updater.rpy:372
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "移动设备不支持Ren'Py Updater"
 
     # 00updater.rpy:491
     old "An error is being simulated."
-    new ""
+    new "正在模拟一个错误。"
 
     # 00updater.rpy:672
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "此项目不支持更新，或更新文件已被删除。"
 
     # 00updater.rpy:686
     old "This account does not have permission to perform an update."
-    new ""
+    new "该账户没有更新权限。"
 
     # 00updater.rpy:689
     old "This account does not have permission to write the update log."
-    new ""
+    new "该账户没有生成更新日志权限。"
 
     # 00updater.rpy:716
     old "Could not verify update signature."
-    new ""
+    new "无法验证更新签名。"
 
     # 00updater.rpy:991
     old "The update file was not downloaded."
-    new ""
+    new "更新文件未下载。"
 
     # 00updater.rpy:1009
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "更新文件没有正确的摘要——它可能已损坏。"
 
     # 00updater.rpy:1065
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "解包{}时，未知类型{}。"
 
     # 00updater.rpy:1412
     old "Updater"
-    new ""
+    new "更新程序"
 
     # 00updater.rpy:1419
     old "An error has occured:"
-    new ""
+    new "发生了一个错误："
 
     # 00updater.rpy:1421
     old "Checking for updates."
-    new ""
+    new "检查更新中。"
 
     # 00updater.rpy:1423
     old "This program is up to date."
-    new ""
+    new "已是最新版本。"
 
     # 00updater.rpy:1425
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "可以更新[u.version]了。你想要下载它吗？"
 
     # 00updater.rpy:1427
     old "Preparing to download the updates."
-    new ""
+    new "准备下载更新中。"
 
     # 00updater.rpy:1429
     old "Downloading the updates."
-    new ""
+    new "下载更新包中。"
 
     # 00updater.rpy:1431
     old "Unpacking the updates."
-    new ""
+    new "解包更新包中。"
 
     # 00updater.rpy:1433
     old "Finishing up."
-    new ""
+    new "已完成。"
 
     # 00updater.rpy:1435
     old "The updates have been installed. The program will restart."
-    new ""
+    new "更新已安装完毕，该程序将重启。"
 
     # 00updater.rpy:1437
     old "The updates have been installed."
-    new ""
+    new "更新已安装完毕。"
 
     # 00updater.rpy:1439
     old "The updates were cancelled."
-    new ""
+    new "更新取消。"
 
     # 00updater.rpy:1454
     old "Proceed"
-    new ""
+    new "继续"
 
     # 00gallery.rpy:573
     old "Image [index] of [count] locked."
-    new ""
+    new "Image [index] of [count] locked."
 
     # 00gallery.rpy:593
     old "prev"
-    new ""
+    new "上一个"
 
     # 00gallery.rpy:594
     old "next"
-    new ""
+    new "下一个"
 
     # 00gallery.rpy:595
     old "slideshow"
-    new ""
+    new "幻灯片"
 
     # 00gallery.rpy:596
     old "return"
-    new ""
+    new "返回"
 
     # 00gltest.rpy:70
     old "Renderer"
-    new ""
+    new "渲染器"
 
     # 00gltest.rpy:74
     old "Automatically Choose"
-    new ""
+    new "自动选择"
 
     # 00gltest.rpy:79
     old "Force Angle/DirectX Renderer"
-    new ""
+    new "加强Angle/DirectX渲染器"
 
     # 00gltest.rpy:83
     old "Force OpenGL Renderer"
-    new ""
+    new "加强OpenGL渲染器"
 
     # 00gltest.rpy:87
     old "Force Software Renderer"
-    new ""
+    new "加强Software渲染器"
 
     # 00gltest.rpy:93
     old "NPOT"
-    new ""
+    new "NPOT"
 
     # 00gltest.rpy:97
     old "Enable"
-    new ""
+    new "启用"
 
     # 00gltest.rpy:101
     old "Disable"
-    new ""
+    new "禁用"
 
     # 00gltest.rpy:108
     old "Gamepad"
-    new ""
+    new "手柄"
 
     # 00gltest.rpy:122
     old "Calibrate"
-    new ""
+    new "校准"
 
     # 00gltest.rpy:131
     old "Powersave"
-    new ""
+    new "电源保存"
 
     # 00gltest.rpy:145
     old "Framerate"
-    new ""
+    new "帧数"
 
     # 00gltest.rpy:149
     old "Screen"
-    new ""
+    new "屏幕默认"
 
     # 00gltest.rpy:153
     old "60"
-    new ""
+    new "60"
 
     # 00gltest.rpy:157
     old "30"
-    new ""
+    new "30"
 
     # 00gltest.rpy:163
     old "Tearing"
-    new ""
+    new "撕裂"
 
     # 00gltest.rpy:179
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "更改将在下次运行该程序时生效。"
 
     # 00gltest.rpy:213
     old "Performance Warning"
-    new ""
+    new "性能警告"
 
     # 00gltest.rpy:218
     old "This computer is using software rendering."
-    new ""
+    new "这台电脑正在使用软件渲染。"
 
     # 00gltest.rpy:220
     old "This computer is not using shaders."
-    new ""
+    new "这台电脑没有使用着色器。"
 
     # 00gltest.rpy:222
     old "This computer is displaying graphics slowly."
-    new ""
+    new "这台计算机显示图形的速度很慢。"
 
     # 00gltest.rpy:224
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "这台电脑的图形显示有问题：[problem]。"
 
     # 00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new ""
+    new "图形驱动可能已经过期或不能正确操作。这可能导致图形显示缓慢或不正确。更新DirectX可以解决这个问题。"
 
     # 00gltest.rpy:231
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "图形驱动可能已经过期或不能正确操作。这可能导致图形显示缓慢或不正确。"
 
     # 00gltest.rpy:236
     old "Update DirectX"
-    new ""
+    new "更新DirectX"
 
     # 00gltest.rpy:242
     old "Continue, Show this warning again"
-    new ""
+    new "继续，往后显示此警告"
 
     # 00gltest.rpy:246
     old "Continue, Don't show warning again"
-    new ""
+    new "继续，不再显示此警告"
 
     # 00gltest.rpy:264
     old "Updating DirectX."
-    new ""
+    new "DirectX更新中"
 
     # 00gltest.rpy:268
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new ""
+    new "DirectX网络设置已经启动。它可能在任务栏中开始最小化。请按照提示来安装DirectX。"
 
     # 00gltest.rpy:272
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new ""
+    new "{b}注意：{/b}微软的DirectX网页设置程序默认会安装Bing工具栏。如果你不想要这个工具栏，请取消勾选相应的方框。"
 
     # 00gltest.rpy:276
     old "When setup finishes, please click below to restart this program."
-    new ""
+    new "设置完成后，请点击下方重新启动该程序。"
 
     # 00gltest.rpy:278
     old "Restart"
-    new ""
+    new "重启"
 
     # 00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "选择要校准的手柄"
 
     # 00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "无可用的手柄"
 
     # 00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "校准[name] ([i]/[total])"
 
     # 00gamepad.rpy:58
     old "Press or move the [control!r] [kind]."
-    new ""
+    new "按下或移动[control!r] [kind]。"
 
     # 00gamepad.rpy:66
     old "Skip (A)"
-    new ""
+    new "跳过(A)"
 
     # 00gamepad.rpy:69
     old "Back (B)"
-    new ""
+    new "返回(B)"
 
     # _errorhandling.rpym:528
     old "Open"
-    new ""
+    new "打开"
 
     # _errorhandling.rpym:530
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "在一个文本编辑器中打开traceback.txt文件。"
 
     # _errorhandling.rpym:532
     old "Copy"
-    new ""
+    new "复制"
 
     # _errorhandling.rpym:534
     old "Copies the traceback.txt file to the clipboard."
-    new ""
+    new "将traceback.txt文件复制到剪贴板上。"
 
     # _errorhandling.rpym:561
     old "An exception has occurred."
-    new ""
+    new "发生了一个异常。"
 
     # _errorhandling.rpym:581
     old "Rollback"
-    new ""
+    new "回滚"
 
     # _errorhandling.rpym:583
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "尝试回滚到以前的界面，允许您保存或选择不同的选择。"
 
     # _errorhandling.rpym:586
     old "Ignore"
-    new ""
+    new "忽略"
 
     # _errorhandling.rpym:590
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "忽略该异常，允许你继续。"
 
     # _errorhandling.rpym:592
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "忽略该异常，允许你继续。这往往会导致更多的错误。"
 
     # _errorhandling.rpym:596
     old "Reload"
-    new ""
+    new "重新加载"
 
     # _errorhandling.rpym:598
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "从磁盘重新加载游戏，如果可能的话，将保存并恢复游戏状态。"
 
     # _errorhandling.rpym:601
     old "Console"
-    new ""
+    new "控制台"
 
     # _errorhandling.rpym:603
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "打开一个控制台，允许调试问题。"
 
     # _errorhandling.rpym:613
     old "Quits the game."
-    new ""
+    new "退出游戏"
 
     # _errorhandling.rpym:637
     old "Parsing the script failed."
-    new ""
+    new "解析脚本失败。"
 
     # _errorhandling.rpym:663
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "在文本编辑器中打开errors.txt文件。"
 
     # _errorhandling.rpym:667
     old "Copies the errors.txt file to the clipboard."
-    new ""
+    new "复制errors.txt文件到剪贴板。"
