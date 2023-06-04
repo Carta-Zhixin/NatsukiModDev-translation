@@ -1,4 +1,5 @@
-﻿## Initialization
+﻿define config.default_language = "chinese"
+## Initialization
 ################################################################################
 
 init offset = -1

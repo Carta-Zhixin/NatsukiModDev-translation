@@ -4,265 +4,265 @@
 translate chinese introduction_first_meeting_aa0116e7:
 
     # n 4uscsctsc "AAAAAaaaaAAAAHHH!"
-    n 4uscsctsc ""
+    n 4uscsctsc "啊啊啊啊啊啊啊啊啊！"
 
 # game/script-introduction.rpy:139
 translate chinese introduction_first_meeting_3cef4dba:
 
     # n 4uskwrtsc "S-{w=0.1}somebody!{w=0.5} ANYBODY?!{w=0.5} HELP!{w=0.5}{nw}"
-    n 4uskwrtsc ""
+    n 4uskwrtsc "有-{w=0.1}有人吗！{w=0.5}有没有人啊？！{w=0.5}救命！{w=0.5}{nw}"
 
 # game/script-introduction.rpy:140
 translate chinese introduction_first_meeting_2771fb11:
 
     # extend 1fbkwr " HELP ME!!"
-    extend 1fbkwr ""
+    extend 1fbkwr "救救我！！"
 
 # game/script-introduction.rpy:141
 translate chinese introduction_first_meeting_851b34d7:
 
     # n 4uscemtsc "Y-{w=0.1}Yuri,{w=0.1} she's..."
-    n 4uscemtsc ""
+    n 4uscemtsc "优-{w=0.1}优里，{w=0.1}她..."
 
 # game/script-introduction.rpy:142
 translate chinese introduction_first_meeting_58cc014b:
 
     # n 1ullem "S-{w=0.3}she's..."
-    n 1ullem ""
+    n 1ullem "她-{w=0.3}她..."
 
 # game/script-introduction.rpy:143
 translate chinese introduction_first_meeting_aa1b3f4c:
 
     # n 1uskem "...H-{w=0.3}huh?"
-    n 1uskem ""
+    n 1uskem "...{w=0.3}哈？"
 
 # game/script-introduction.rpy:144
 translate chinese introduction_first_meeting_8f120d45:
 
     # n 4uscaj "W...{w=0.5} what is...?"
-    n 4uscaj ""
+    n 4uscaj "什...{w=0.5}什么...？"
 
 # game/script-introduction.rpy:145
 translate chinese introduction_first_meeting_4b1751a7:
 
     # n 1fllup "I...{w=0.5} I was just running from..."
-    n 1fllup ""
+    n 1fllup "我...{w=0.5}我刚刚..."
 
 # game/script-introduction.rpy:146
 translate chinese introduction_first_meeting_d5ad97fa:
 
     # n 1flrun "What's going-{w=0.5}{nw}"
-    n 1flrun ""
+    n 1flrun "怎么——{w=0.5}{nw}"
 
 # game/script-introduction.rpy:157
 translate chinese introduction_first_meeting_4c20486a:
 
     # n 4fcsantsa "Ugh!"
-    n 4fcsantsa ""
+    n 4fcsantsa "啊！"
 
 # game/script-introduction.rpy:158
 translate chinese introduction_first_meeting_8380c544:
 
     # n 1kcsfutsa "Nnnnnnghhhh..."
-    n 1kcsfutsa ""
+    n 1kcsfutsa "嗷..."
 
 # game/script-introduction.rpy:159
 translate chinese introduction_first_meeting_a62413ea:
 
     # n 1kcsantsasbl "I-{w=0.3}it hurts...{w=0.5} it hurts so much...{w=1}{nw}"
-    n 1kcsantsasbl ""
+    n 1kcsantsasbl "好-{w=0.3}好痛...{w=0.5}这也太痛了...{w=1}{nw}"
 
 # game/script-introduction.rpy:166
 translate chinese introduction_first_meeting_2c300ac7:
 
     # n 1kskan "A-{w=0.1}and I'm..."
-    n 1kskan ""
+    n 1kskan "我-{w=0.1}我..."
 
 # game/script-introduction.rpy:167
 translate chinese introduction_first_meeting_09ab4307:
 
     # n 4kskaj "...No.{w=1}{nw}"
-    n 4kskaj ""
+    n 4kskaj "...不。{w=1}{nw}"
 
 # game/script-introduction.rpy:168
 translate chinese introduction_first_meeting_4c590bc7:
 
     # extend 4kscemsbl " ...Oh please no.{w=0.5} I-{w=0.3}I can't.{w=0.5} I really can't be...{w=0.5}{nw}"
-    extend 4kscemsbl ""
+    extend 4kscemsbl "...不会吧。{w=0.5}我-{w=0.3}不可能...{w=0.5}{nw}"
 
 # game/script-introduction.rpy:175
 translate chinese introduction_first_meeting_db560f4f:
 
     # n 4fcsuptsa "Hhnnngghh!{w=1}{nw}"
-    n 4fcsuptsa ""
+    n 4fcsuptsa "啊！"
 
 # game/script-introduction.rpy:176
 translate chinese introduction_first_meeting_50aab469:
 
     # extend 4kcsuptsaeso " M-{w=0.3}my head..."
-    extend 4kcsuptsaeso ""
+    extend 4kcsuptsaeso "我-{w=0.3}我的头..."
 
 # game/script-introduction.rpy:177
 translate chinese introduction_first_meeting_72978b3e:
 
     # n 4kcsantsa "Gotta...{w=0.3} gotta...{w=0.3} t-{w=0.1}think..."
-    n 4kcsantsa ""
+    n 4kcsantsa "冷静...{w=0.3}冷静...{w=0.3}好-{w=0.1}好好想想..."
 
 # game/script-introduction.rpy:178
 translate chinese introduction_first_meeting_1b5de1b5:
 
     # n 2kcsaj "...{w=1}{nw}"
-    n 2kcsaj ""
+    n 2kcsaj "...{w=1}{nw}"
 
 # game/script-introduction.rpy:179
 translate chinese introduction_first_meeting_c28075d0:
 
     # n 2kcsem "...{w=1}{nw}"
-    n 2kcsem ""
+    n 2kcsem "...{w=1}{nw}"
 
 # game/script-introduction.rpy:180
 translate chinese introduction_first_meeting_1b5de1b5_1:
 
     # n 2kcsaj "...{w=1}{nw}"
-    n 2kcsaj ""
+    n 2kcsaj "...{w=1}{nw}"
 
 # game/script-introduction.rpy:181
 translate chinese introduction_first_meeting_71604c88:
 
     # n 2kcsem "...{w=5}{nw}"
-    n 2kcsem ""
+    n 2kcsem "...{w=5}{nw}"
 
 # game/script-introduction.rpy:182
 translate chinese introduction_first_meeting_1f2b0788:
 
     # n 2kplpu "....."
-    n 2kplpu ""
+    n 2kplpu "......"
 
 # game/script-introduction.rpy:183
 translate chinese introduction_first_meeting_5fcba423:
 
     # n 4kwdun "...H-{w=0.1}hello?{w=1}{nw}"
-    n 4kwdun ""
+    n 4kwdun "...有-{w=0.1}有人吗？{w=1}{nw}"
 
 # game/script-introduction.rpy:190
 translate chinese introduction_first_meeting_b5c6851d:
 
     # n 4fcsantsa "..."
-    n 4fcsantsa ""
+    n 4fcsantsa "..."
 
 # game/script-introduction.rpy:191
 translate chinese introduction_first_meeting_4fb09489:
 
     # n 1kwmem "Hello...?"
-    n 1kwmem ""
+    n 1kwmem "有人吗...？"
 
 # game/script-introduction.rpy:192
 translate chinese introduction_first_meeting_d46118de:
 
     # n 4kscemtsc "A-{w=0.1}anybody?!{w=0.5} Please!{w=0.5} H-{w=0.3}hello?!"
-    n 4kscemtsc ""
+    n 4kscemtsc "谁-{w=0.1}谁都可以！{w=0.5}求求了！{w=0.5}有-{w=0.3}有人吗？！"
 
 # game/script-introduction.rpy:199
 translate chinese introduction_first_meeting_11ae072e:
 
     # n 4kskaj "W-{w=0.3}who is...?{w=1}{nw}"
-    n 4kskaj ""
+    n 4kskaj "谁-{w=0.3}谁在那...？{w=1}{nw}"
 
 # game/script-introduction.rpy:200
 translate chinese introduction_first_meeting_58653183:
 
     # extend 4kllem " A-{w=0.3}and how do you know...?"
-    extend 4kllem ""
+    extend 4kllem "你-{w=0.3}你是怎么知道...？"
 
 # game/script-introduction.rpy:201
 translate chinese introduction_first_meeting_13ad0114:
 
     # n 2kllsl "..."
-    n 2kllsl ""
+    n 2kllsl "..."
 
 # game/script-introduction.rpy:202
 translate chinese introduction_first_meeting_5d57c049:
 
     # n 4kplpu "Who {w=0.3}{i}are{/i}{w=0.3} you?"
-    n 4kplpu ""
+    n 4kplpu "你{w=0.3}{i}是{/i}{w=0.3}谁？"
 
 # game/script-introduction.rpy:203
 translate chinese introduction_first_meeting_21c0d887:
 
     # n 4ksrun "You're kinda...{w=0.3} familiar,{w=0.1} but...{w=0.5}{nw}"
-    n 4ksrun ""
+    n 4ksrun "感觉...{w=0.3}你有点熟悉，{w=0.1}但是...{w=0.5}{nw}"
 
 # game/script-introduction.rpy:204
 translate chinese introduction_first_meeting_8c929755:
 
     # n 1kcsan "Nnn-!{nw}"
-    n 1kcsan ""
+    n 1kcsan "嗷——！{nw}"
 
 # game/script-introduction.rpy:210
 translate chinese introduction_first_meeting_9b46fa0c:
 
     # n 4fcsfu "Nnngh!"
-    n 4fcsfu ""
+    n 4fcsfu "啊！"
 
 # game/script-introduction.rpy:211
 translate chinese introduction_first_meeting_b1de0708:
 
     # n 4kcsup "..."
-    n 4kcsup ""
+    n 4kcsup "..."
 
 # game/script-introduction.rpy:212
 translate chinese introduction_first_meeting_026bcb3f:
 
     # n 4kplsf "It's all...{w=0.3} so foggy...{w=1}{nw}"
-    n 4kplsf ""
+    n 4kplsf "这...{w=0.3}这太乱了...{w=1}{nw}"
 
 # game/script-introduction.rpy:213
 translate chinese introduction_first_meeting_681a2d7c:
 
     # extend 4kcsun " I just...{w=0.3} can't...{w=0.3} remember..."
-    extend 4kcsun ""
+    extend 4kcsun "我...{w=0.3}我什么都...{w=0.3}记不起来..."
 
 # game/script-introduction.rpy:230
 translate chinese introduction_first_meeting_09c74fb3:
 
     # n 4kskem "P-{w=0.3}please!{w=1} Who are you?!"
-    n 4kskem ""
+    n 4kskem "告-{w=0.3}告诉我吧！{w=1}你是谁？！"
 
 # game/script-introduction.rpy:237
 translate chinese introduction_first_meeting_959cbdc3:
 
     # n 4fscan "ENOUGH!{w=2}{nw}"
-    n 4fscan ""
+    n 4fscan "够了！{w=2}{nw}"
 
 # game/script-introduction.rpy:238
 translate chinese introduction_first_meeting_2e0866a5:
 
     # n 2fcsun "...{w=2}{nw}"
-    n 2fcsun ""
+    n 2fcsun "...{w=2}{nw}"
 
 # game/script-introduction.rpy:239
 translate chinese introduction_first_meeting_68878a53:
 
     # n 2fcsfu "Who{w=0.5} {i}are{/i}{w=0.5} you?!"
-    n 2fcsfu ""
+    n 2fcsfu "你{w=0.5}{i}是{/i}{w=0.5}谁？！"
 
 # game/script-introduction.rpy:242
 translate chinese introduction_first_meeting_d7cc0978:
 
     # n 4fscem "E-{w=0.3}excuse me?!"
-    n 4fscem ""
+    n 4fscem "请-{w=0.3}请告诉我吧？！"
 
 # game/script-introduction.rpy:243
 translate chinese introduction_first_meeting_e9792f3f:
 
     # n 4fcsan "Quit playing around,{w=0.3} you jerk!{w=1}{nw}"
-    n 4fcsan ""
+    n 4fcsan "别玩我了，{w=0.3}你这混蛋！{w=1}{nw}"
 
 # game/script-introduction.rpy:244
 translate chinese introduction_first_meeting_b8bc9af2:
 
     # extend 2fcsup " I am {i}not{/i} calling you that!"
-    extend 2fcsup ""
+    extend 2fcsup "我{i}不是故意{/i}要那样叫你的！"
 
 # game/script-introduction.rpy:253
 translate chinese introduction_first_meeting_f1d3b0e7:
@@ -1042,7 +1042,7 @@ translate chinese strings:
 
     # script-introduction.rpy:195
     old "I'm here, Natsuki."
-    new ""
+    new "我在呢，夏树。"
 
     # script-introduction.rpy:216
     old "I'm..."
@@ -1063,4 +1063,3 @@ translate chinese strings:
     # script-introduction.rpy:359
     old "Take your time, Natsuki."
     new ""
-
