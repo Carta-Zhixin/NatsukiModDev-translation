@@ -188,483 +188,483 @@ translate chinese strings:
 
     # 00action_file.rpy:601
     old "Automatic saves"
-    new ""
+    new "自动保存"
 
     # 00action_file.rpy:601
     old "Quick saves"
-    new ""
+    new "快捷保存"
 
     # 00action_file.rpy:733
     old "Next file page."
-    new ""
+    new "下一页"
 
     # 00action_file.rpy:797
     old "Previous file page."
-    new ""
+    new "上一页"
 
     # 00action_file.rpy:858
     old "Quick save complete."
-    new ""
+    new "快捷保存完成"
 
     # 00action_file.rpy:876
     old "Quick save."
-    new ""
+    new "快捷保存"
 
     # 00action_file.rpy:895
     old "Quick load."
-    new ""
+    new "快捷读取"
 
     # 00action_other.rpy:344
     old "Language [text]"
-    new ""
+    new "语言[text]"
 
     # 00director.rpy:703
     old "The interactive director is not enabled here."
-    new ""
+    new "交互式导演未启用"
 
     # 00director.rpy:1498
     old "(statement)"
-    new ""
+    new "（语句）"
 
     # 00director.rpy:1499
     old "(tag)"
-    new ""
+    new "（标签）"
 
     # 00director.rpy:1500
     old "(attributes)"
-    new ""
+    new "（属性）"
 
     # 00director.rpy:1501
     old "(transform)"
-    new ""
+    new "（变换）"
 
     # 00director.rpy:1526
     old "(transition)"
-    new ""
+    new "（过渡）"
 
     # 00director.rpy:1538
     old "(channel)"
-    new ""
+    new "（频道）"
 
     # 00director.rpy:1539
     old "(filename)"
-    new ""
+    new "（文件名）"
 
     # 00director.rpy:1564
     old "Change"
-    new ""
+    new "修改"
 
     # 00director.rpy:1566
     old "Add"
-    new ""
+    new "添加"
 
     # 00director.rpy:1569
     old "Cancel"
-    new ""
+    new "取消"
 
     # 00director.rpy:1572
     old "Remove"
-    new ""
+    new "移除"
 
     # 00director.rpy:1605
     old "Statement:"
-    new ""
+    new "语句："
 
     # 00director.rpy:1626
     old "Tag:"
-    new ""
+    new "标签："
 
     # 00director.rpy:1642
     old "Attributes:"
-    new ""
+    new "属性："
 
     # 00director.rpy:1660
     old "Transforms:"
-    new ""
+    new "变换："
 
     # 00director.rpy:1679
     old "Behind:"
-    new ""
+    new "后置："
 
     # 00director.rpy:1698
     old "Transition:"
-    new ""
+    new "过渡："
 
     # 00director.rpy:1716
     old "Channel:"
-    new ""
+    new "频道："
 
     # 00director.rpy:1734
     old "Audio Filename:"
-    new ""
+    new "音频文件名："
 
     # 00gui.rpy:370
     old "Are you sure?"
-    new ""
+    new "你确定吗？"
 
     # 00gui.rpy:371
     old "Are you sure you want to delete this save?"
-    new ""
+    new "你确定要删除这个存档吗？"
 
     # 00gui.rpy:372
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "你确定要覆盖这个存档吗？"
 
     # 00gui.rpy:373
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "加载将丢失未保存的进度。\n你确定要这样做吗？"
 
     # 00gui.rpy:374
     old "Are you sure you want to quit?"
-    new ""
+    new "你确定要退出吗？"
 
     # 00gui.rpy:375
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "你确定要返回主菜单吗？\n这样会丢失未保存的进度。"
 
     # 00gui.rpy:376
     old "Are you sure you want to end the replay?"
-    new ""
+    new "你确定要结束重播吗？"
 
     # 00gui.rpy:377
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "你确定要开始快进吗？"
 
     # 00gui.rpy:378
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "你确定要快进到下一个选项吗？"
 
     # 00gui.rpy:379
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "你确定要快进未读文本到下一个选项吗？"
 
     # 00keymap.rpy:258
     old "Failed to save screenshot as %s."
-    new ""
+    new "未能将截图保存为%s。"
 
     # 00keymap.rpy:270
     old "Saved screenshot as %s."
-    new ""
+    new "截图保存为%s。"
 
     # 00library.rpy:146
     old "Self-voicing disabled."
-    new ""
+    new "自我发声已禁用。"
 
     # 00library.rpy:147
     old "Clipboard voicing enabled. "
-    new ""
+    new "粘贴板发声已启用"
 
     # 00library.rpy:148
     old "Self-voicing enabled. "
-    new ""
+    new "自我发声已启用。"
 
     # 00library.rpy:150
     old "bar"
-    new ""
+    new "状态栏"
 
     # 00library.rpy:151
     old "selected"
-    new ""
+    new "已选定"
 
     # 00library.rpy:152
     old "viewport"
-    new ""
+    new "视窗"
 
     # 00library.rpy:153
     old "horizontal scroll"
-    new ""
+    new "水平滚动"
 
     # 00library.rpy:154
     old "vertical scroll"
-    new ""
+    new "垂直滚动"
 
     # 00library.rpy:155
     old "activate"
-    new ""
+    new "启动"
 
     # 00library.rpy:156
     old "deactivate"
-    new ""
+    new "关闭"
 
     # 00library.rpy:157
     old "increase"
-    new ""
+    new "增加"
 
     # 00library.rpy:158
     old "decrease"
-    new ""
+    new "减少"
 
     # 00library.rpy:193
     old "Skip Mode"
-    new ""
+    new "快进模式"
 
     # 00library.rpy:279
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new ""
+    new "本程序包含一些许可证下的自由软件，包括MIT许可证和GNU较小通用公共许可证。完整的软件清单，包括完整的源代码链接，可以在{ahttps://www.renpy.org/l/license}这里{/a}找到。"
 
     # 00preferences.rpy:207
     old "display"
-    new ""
+    new "显示"
 
     # 00preferences.rpy:219
     old "transitions"
-    new ""
+    new "过渡"
 
     # 00preferences.rpy:228
     old "skip transitions"
-    new ""
+    new "跳过过渡"
 
     # 00preferences.rpy:230
     old "video sprites"
-    new ""
+    new "视频精灵"
 
     # 00preferences.rpy:239
     old "show empty window"
-    new ""
+    new "显示空窗口"
 
     # 00preferences.rpy:248
     old "text speed"
-    new ""
+    new "文本速度"
 
     # 00preferences.rpy:256
     old "joystick"
-    new ""
+    new "操纵杆"
 
     # 00preferences.rpy:256
     old "joystick..."
-    new ""
+    new "操纵杆..."
 
     # 00preferences.rpy:263
     old "skip"
-    new ""
+    new "快进"
 
     # 00preferences.rpy:266
     old "skip unseen [text]"
-    new ""
+    new "快进未读[text]"
 
     # 00preferences.rpy:271
     old "skip unseen text"
-    new ""
+    new "快进未读文本"
 
     # 00preferences.rpy:273
     old "begin skipping"
-    new ""
+    new "开始快进"
 
     # 00preferences.rpy:277
     old "after choices"
-    new ""
+    new "选项后"
 
     # 00preferences.rpy:284
     old "skip after choices"
-    new ""
+    new "快进选项后文本"
 
     # 00preferences.rpy:286
     old "auto-forward time"
-    new ""
+    new "自动前进时间"
 
     # 00preferences.rpy:300
     old "auto-forward"
-    new ""
+    new "自动前进"
 
     # 00preferences.rpy:307
     old "Auto forward"
-    new ""
+    new "自动前进"
 
     # 00preferences.rpy:310
     old "auto-forward after click"
-    new ""
+    new "点击后自动前进"
 
     # 00preferences.rpy:319
     old "automatic move"
-    new ""
+    new "自动播放"
 
     # 00preferences.rpy:328
     old "wait for voice"
-    new ""
+    new "等待语音"
 
     # 00preferences.rpy:337
     old "voice sustain"
-    new ""
+    new "语音播放时长"
 
     # 00preferences.rpy:346
     old "self voicing"
-    new ""
+    new "自我发声"
 
     # 00preferences.rpy:355
     old "clipboard voicing"
-    new ""
+    new "粘贴板发声"
 
     # 00preferences.rpy:364
     old "debug voicing"
-    new ""
+    new "调试发声"
 
     # 00preferences.rpy:373
     old "emphasize audio"
-    new ""
+    new "强调语音"
 
     # 00preferences.rpy:382
     old "rollback side"
-    new ""
+    new "回滚侧"
 
     # 00preferences.rpy:392
     old "gl powersave"
-    new ""
+    new "显卡省电模式"
 
     # 00preferences.rpy:398
     old "gl framerate"
-    new ""
+    new "游戏帧率"
 
     # 00preferences.rpy:401
     old "gl tearing"
-    new ""
+    new "画面撕裂"
 
     # 00preferences.rpy:413
     old "music volume"
-    new ""
+    new "音乐音量"
 
     # 00preferences.rpy:414
     old "sound volume"
-    new ""
+    new "音效音量"
 
     # 00preferences.rpy:415
     old "voice volume"
-    new ""
+    new "语音音量"
 
     # 00preferences.rpy:416
     old "mute music"
-    new ""
+    new "音乐静音"
 
     # 00preferences.rpy:417
     old "mute sound"
-    new ""
+    new "音效静音"
 
     # 00preferences.rpy:418
     old "mute voice"
-    new ""
+    new "语音静音"
 
     # 00preferences.rpy:419
     old "mute all"
-    new ""
+    new "全静音"
 
     # 00preferences.rpy:500
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new ""
+    new "粘贴板发声已启用，按shift+C禁用"
 
     # 00preferences.rpy:502
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new ""
+    new "自我发声将播放\"[renpy.display.tts.last]\"。按alt+shift+V禁用"
 
     # 00preferences.rpy:504
     old "Self-voicing enabled. Press 'v' to disable."
-    new ""
+    new "自我发声已启用，按V禁用"
 
     # _compat\gamemenu.rpym:198
     old "Empty Slot."
-    new ""
+    new "空"
 
     # _compat\gamemenu.rpym:355
     old "Previous"
-    new ""
+    new "上一个"
 
     # _compat\gamemenu.rpym:362
     old "Next"
-    new ""
+    new "下一个"
 
     # _compat\preferences.rpym:428
     old "Joystick Mapping"
-    new ""
+    new "操纵杆映射"
 
     # _developer\developer.rpym:38
     old "Developer Menu"
-    new ""
+    new "开发者菜单"
 
     # _developer\developer.rpym:43
     old "Interactive Director (D)"
-    new ""
+    new "交互指令（D）"
 
     # _developer\developer.rpym:45
     old "Reload Game (Shift+R)"
-    new ""
+    new "重新加载游戏（Shift+R）"
 
     # _developer\developer.rpym:47
     old "Console (Shift+O)"
-    new ""
+    new "控制台（Shift+O）"
 
     # _developer\developer.rpym:49
     old "Variable Viewer"
-    new ""
+    new "变量查看器"
 
     # _developer\developer.rpym:51
     old "Image Location Picker"
-    new ""
+    new "图像位置选择器"
 
     # _developer\developer.rpym:53
     old "Filename List"
-    new ""
+    new "文件名列表"
 
     # _developer\developer.rpym:57
     old "Show Image Load Log (F4)"
-    new ""
+    new "显示图像加载日志（F4）"
 
     # _developer\developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new ""
+    new "隐藏图像加载日志（F4）"
 
     # _developer\developer.rpym:95
     old "Nothing to inspect."
-    new ""
+    new "无检查对象。"
 
     # _developer\developer.rpym:223
     old "Return to the developer menu"
-    new ""
+    new "返回到开发者菜单"
 
     # _developer\developer.rpym:383
     old "Rectangle: %r"
-    new ""
+    new "矩形：%r"
 
     # _developer\developer.rpym:388
     old "Mouse position: %r"
-    new ""
+    new "鼠标位置：%r"
 
     # _developer\developer.rpym:393
     old "Right-click or escape to quit."
-    new ""
+    new "按下右键或Esc退出"
 
     # _developer\developer.rpym:425
     old "Rectangle copied to clipboard."
-    new ""
+    new "矩形被复制到剪贴板。"
 
     # _developer\developer.rpym:428
     old "Position copied to clipboard."
-    new ""
+    new "已复制到粘贴板。"
 
     # _developer\developer.rpym:447
     old "Type to filter: "
-    new ""
+    new "过滤类型："
 
     # _developer\developer.rpym:575
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new ""
+    new "纹理：[tex_count]([tex_size_mb:.1f] MB)"
 
     # _developer\developer.rpym:579
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new ""
+    new "图像缓存：[cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
     # _developer\developer.rpym:589
     old "✔ "
-    new ""
+    new "✔"
 
     # _developer\developer.rpym:592
     old "✘ "
-    new ""
+    new "✘"
 
     # _developer\developer.rpym:597
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new ""
+    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
 
     # _developer\inspector.rpym:38
     old "Displayable Inspector"
-    new ""
+    new "可显示检查器"
 
     # _developer\inspector.rpym:61
     old "Size"
