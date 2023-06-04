@@ -1293,8 +1293,9 @@ screen preferences():
                     box_wrap True
 
                     vbox:
-
-                        label _("Random chatter: {0}".format(jn_preferences.random_topic_frequency.get_random_topic_frequency_description()))
+                        hbox:
+                            label _("Random chatter:")
+                            label _(" "+ jn_preferences.random_topic_frequency.get_random_topic_frequency_description())
 
                         bar value FieldValue(
                             object=persistent,
