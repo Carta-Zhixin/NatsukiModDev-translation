@@ -241,3 +241,21 @@ translate chinese strings:
     # screens.rpy:1715
     old "Close"
     new "关闭"
+# TODO: Translation updated at 2023-06-05 08:00
+
+translate chinese strings:
+
+    # screens.rpy:1297
+    old "Random chatter:"
+    new "话题频率："
+
+# TODO: Translation updated at 2023-06-05 08:04
+
+translate chinese python in jn_preferences.random_topic_frequency:
+    _RANDOM_TOPIC_FREQUENCY_DESC_MAP = {
+        0: "从不",
+        1: "很少",
+        2: "偶尔",
+        3: "经常",
+        4: "频繁",
+    }

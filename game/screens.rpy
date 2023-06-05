@@ -1171,7 +1171,7 @@ define persistent.room_animation = True
 
 screen preferences():
     $ config.mouse = None
-
+    $ chatter = jn_preferences.random_topic_frequency.get_random_topic_frequency_description()
     tag menu
 
     if renpy.mobile:
@@ -1295,7 +1295,7 @@ screen preferences():
                     vbox:
                         hbox:
                             label _("Random chatter:")
-                            label _(" "+ jn_preferences.random_topic_frequency.get_random_topic_frequency_description())
+                            label _(" [chatter]")
 
                         bar value FieldValue(
                             object=persistent,
@@ -1829,3 +1829,8 @@ init:
     screen warn(message):
         zorder 100
         text "[message]" size 20 xpos 10 ypos 10 text_align 0 xysize (None, None) color "#FF3333" outlines [(2, "#000000d2", 0, 0)]
+
+init 999 python:
+    renpy.config.developer = True
+    renpy.config.debug = True
+    renpy.config.console = True
