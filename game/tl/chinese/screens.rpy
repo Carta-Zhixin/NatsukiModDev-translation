@@ -259,3 +259,26 @@ translate chinese python in jn_preferences.random_topic_frequency:
         3: "经常",
         4: "频繁",
     }
+# TODO: Translation updated at 2023-06-24 07:54
+
+translate chinese strings:
+
+    # screens.rpy:1298
+    old " [chatter]"
+    new "[chatter]"
+
+# TODO: Translation updated at 2023-06-24 09:42
+
+translate chinese strings:
+
+    # screens.rpy:1210
+    old "Language"
+    new "语言"
+
+    # screens.rpy:1211
+    old "English"
+    new "英文"
+
+    # screens.rpy:1212
+    old "Chinese"
+    new "中文"

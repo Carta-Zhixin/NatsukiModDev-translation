@@ -1205,6 +1205,11 @@ screen preferences():
                         label _("Skip")
                         textbutton _("Unseen Text") action Preference("skip", "toggle")
                         textbutton _("After Choices") action Preference("after choices", "toggle")
+                    vbox:
+                        style_prefix "radio"
+                        label _("Language")
+                        textbutton _("English") action Language(None)
+                        textbutton _("Chinese") action Language("chinese")
 
                     vbox:
                         # Weather options

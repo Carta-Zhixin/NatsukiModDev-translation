@@ -10,25 +10,25 @@ translate chinese weather_change_c43ac6e2:
 translate chinese weather_change_b6efd697:
 
     # extend 2fllgs " about time all that rain buzzed off!{w=1}{nw}"
-    extend 2fllgs ""
+    extend 2fllgs "差不多该停停了！{w=1}{nw}"
 
 # game/atmosphere.rpy:622
 translate chinese weather_change_238c30f6:
 
     # n 2nchgn "Much better.{w=3}{nw}"
-    n 2nchgn ""
+    n 2nchgn "好多了。{w=3}{nw}"
 
 # game/atmosphere.rpy:625
 translate chinese weather_change_3f7c9c33:
 
     # n 3tllpu "Huh?{w=1.25}{nw}"
-    n 3tllpu ""
+    n 3tllpu "哈？{w=1.25}{nw}"
 
 # game/atmosphere.rpy:626
 translate chinese weather_change_400ffba1:
 
     # extend 4ullajeex "Oh,{w=0.2} the storm passed.{w=1}{nw}"
-    extend 4ullajeex ""
+    extend 4ullajeex "噢，{w=0.2}我是说雨。{w=1}{nw}"
 
 # game/atmosphere.rpy:627
 translate chinese weather_change_0917bf2a:

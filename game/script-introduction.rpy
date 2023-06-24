@@ -62,14 +62,14 @@ label introduction_opening:
     # Restore attempt #1..
     # NOTE: We use non-standard menus in this sequence, as the default menu is offset and we need these centred.
     # Only use this menu code if a non-standard menu is required!
-    $ renpy.display_menu(items=[ ("Restore natsuki.chr", True)], screen="choice_centred_mute")
+    $ renpy.display_menu(items=[ (_("Restore natsuki.chr"), True)], screen="choice_centred_mute")
     play audio static
     show glitch_garbled_a zorder JN_GLITCH_ZORDER with vpunch
     hide glitch_garbled_a
     $ jnPause(5)
 
     # Restore attempt #2..
-    $ renpy.display_menu(items=[ ("Restore natsuki.chr", True)], screen="choice_centred_mute")
+    $ renpy.display_menu(items=[ (_("Restore natsuki.chr"), True)], screen="choice_centred_mute")
     play audio static
     show glitch_garbled_b zorder JN_GLITCH_ZORDER with vpunch
     $ jnPause(0.25)
@@ -82,7 +82,7 @@ label introduction_opening:
     $ jnPause(7)
 
     # Restore attempt #3..
-    $ renpy.display_menu(items=[ ("Restore natsuki.chr", True)], screen="choice_centred_mute")
+    $ renpy.display_menu(items=[ (_("Restore natsuki.chr"), True)], screen="choice_centred_mute")
     play audio static
     show glitch_garbled_c zorder JN_GLITCH_ZORDER with vpunch
     $ jnPause(0.25)
@@ -212,7 +212,7 @@ label introduction_first_meeting:
     n 4kplsf "It's all...{w=0.3} so foggy...{w=1}{nw}"
     extend 4kcsun " I just...{w=0.3} can't...{w=0.3} remember..."
     show natsuki 4kcsem
-    
+
     menu:
         "I'm...":
             pass
@@ -221,7 +221,7 @@ label introduction_first_meeting:
     $ name_given = False
     while not name_given:
         $ player_name = renpy.input(
-            "What is your name?",
+            _("What is your name?"),
             allow=(jn_globals.DEFAULT_ALPHABETICAL_ALLOW_VALUES+jn_globals.DEFAULT_NUMERICAL_ALLOW_VALUES),
             length=15
         ).strip()

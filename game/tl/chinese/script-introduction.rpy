@@ -148,7 +148,7 @@ translate chinese introduction_first_meeting_5fcba423:
 translate chinese introduction_first_meeting_b5c6851d:
 
     # n 4fcsantsa "..."
-    n 4fcsantsa "..."
+    n 4fcsantsa "...{w=0.1}"
 
 # game/script-introduction.rpy:191
 translate chinese introduction_first_meeting_4fb09489:
@@ -172,13 +172,13 @@ translate chinese introduction_first_meeting_11ae072e:
 translate chinese introduction_first_meeting_58653183:
 
     # extend 4kllem " A-{w=0.3}and how do you know...?"
-    extend 4kllem "你-{w=0.3}你是怎么知道...？"
+    extend 4kllem "你-{w=0.3}你怎么知道...？"
 
 # game/script-introduction.rpy:201
 translate chinese introduction_first_meeting_13ad0114:
 
     # n 2kllsl "..."
-    n 2kllsl "..."
+    n 2kllsl "...{w=0.1}"
 
 # game/script-introduction.rpy:202
 translate chinese introduction_first_meeting_5d57c049:
@@ -208,7 +208,7 @@ translate chinese introduction_first_meeting_9b46fa0c:
 translate chinese introduction_first_meeting_b1de0708:
 
     # n 4kcsup "..."
-    n 4kcsup "..."
+    n 4kcsup "...{w=0.1}"
 
 # game/script-introduction.rpy:212
 translate chinese introduction_first_meeting_026bcb3f:
@@ -268,7 +268,7 @@ translate chinese introduction_first_meeting_b8bc9af2:
 translate chinese introduction_first_meeting_f1d3b0e7:
 
     # n 4kplun "..."
-    n 4kplun "..."
+    n 4kplun "...{w=0.1}"
 
 # game/script-introduction.rpy:254
 translate chinese introduction_first_meeting_bde9b91d:
@@ -286,7 +286,7 @@ translate chinese introduction_first_meeting_2c7fbcad:
 translate chinese introduction_collecting_thoughts_cd93e0c8:
 
     # n 4kllun "..."
-    n 4kllun "..."
+    n 4kllun "...{w=0.1}"
 
 # game/script-introduction.rpy:268
 translate chinese introduction_collecting_thoughts_ab016143:
@@ -310,7 +310,7 @@ translate chinese introduction_collecting_thoughts_3840fea7:
 translate chinese introduction_collecting_thoughts_e1e8cb2a:
 
     # n 2klrsf "..."
-    n 2klrsf "..."
+    n 2klrsf "...{w=0.1}"
 
 # game/script-introduction.rpy:272
 translate chinese introduction_collecting_thoughts_bb057751:
@@ -334,7 +334,7 @@ translate chinese introduction_collecting_thoughts_9f120524:
 translate chinese introduction_collecting_thoughts_b1de0708:
 
     # n 4kcsup "..."
-    n 4kcsup "..."
+    n 4kcsup "...{w=0.1}"
 
 # game/script-introduction.rpy:282
 translate chinese introduction_collecting_thoughts_6300b819:
@@ -376,13 +376,13 @@ translate chinese introduction_collecting_thoughts_27ddc42b:
 translate chinese introduction_collecting_thoughts_82557326:
 
     # n 4kllem "..."
-    n 4kllem "..."
+    n 4kllem "...{w=0.1}"
 
 # game/script-introduction.rpy:299
 translate chinese introduction_collecting_thoughts_98673ef2:
 
     # n 2kllun "..."
-    n 2kllun "..."
+    n 2kllun "...{w=0.1}"
 
 # game/script-introduction.rpy:300
 translate chinese introduction_collecting_thoughts_540006e7:
@@ -478,13 +478,13 @@ translate chinese introduction_collecting_thoughts_0361eb1f:
 translate chinese introduction_collecting_thoughts_136a3001:
 
     # n 1kllpu "..."
-    n 1kllpu "..."
+    n 1kllpu "...{w=0.1}"
 
 # game/script-introduction.rpy:316
 translate chinese introduction_collecting_thoughts_54ac79cc:
 
     # n 1kwmsr "..."
-    n 1kwmsr "..."
+    n 1kwmsr "...{w=0.1}"
 
 # game/script-introduction.rpy:317
 translate chinese introduction_collecting_thoughts_72b40a91:
@@ -502,7 +502,7 @@ translate chinese introduction_collecting_thoughts_270e56af:
 translate chinese introduction_collecting_thoughts_073cf260:
 
     # n 4klrun "..."
-    n 4klrun "..."
+    n 4klrun "...{w=0.1}"
 
 # game/script-introduction.rpy:320
 translate chinese introduction_collecting_thoughts_91a6b453:
@@ -514,7 +514,7 @@ translate chinese introduction_collecting_thoughts_91a6b453:
 translate chinese introduction_collecting_thoughts_46635430:
 
     # n 3kslun "..."
-    n 3kslun "..."
+    n 3kslun "...{w=0.1}"
 
 # game/script-introduction.rpy:327
 translate chinese introduction_collecting_thoughts_adefbf6c:
@@ -526,7 +526,7 @@ translate chinese introduction_collecting_thoughts_adefbf6c:
 translate chinese introduction_collecting_thoughts_9cd4bcad:
 
     # n 4kwmsr "..."
-    n 4kwmsr "..."
+    n 4kwmsr "...{w=0.1}"
 
 # game/script-introduction.rpy:329
 translate chinese introduction_collecting_thoughts_04ebcccf:
@@ -568,7 +568,7 @@ translate chinese introduction_collecting_thoughts_ef12455c:
 translate chinese introduction_calmed_down_5046cddf:
 
     # n 2kllsr "..."
-    n 2kllsr "..."
+    n 2kllsr "...{w=0.1}"
 
 # game/script-introduction.rpy:347
 translate chinese introduction_calmed_down_63f9eaf4:
@@ -640,7 +640,7 @@ translate chinese introduction_calmed_down_04b21156:
 translate chinese introduction_calmed_down_95b81566:
 
     # n 4fcssrl "..."
-    n 4fcssrl "..."
+    n 4fcssrl "...{w=0.1}"
 
 # game/script-introduction.rpy:363
 translate chinese introduction_calmed_down_f67dbaff:
@@ -658,7 +658,7 @@ translate chinese introduction_calmed_down_1d0f4146:
 translate chinese introduction_calmed_down_400811f0:
 
     # n 1nplsr "..."
-    n 1nplsr "..."
+    n 1nplsr "...{w=0.1}"
 
 # game/script-introduction.rpy:368
 translate chinese introduction_calmed_down_ec84c660:
@@ -670,7 +670,7 @@ translate chinese introduction_calmed_down_ec84c660:
 translate chinese introduction_calmed_down_400811f0_1:
 
     # n 1nplsr "..."
-    n 1nplsr "..."
+    n 1nplsr "...{w=0.1}"
 
 # game/script-introduction.rpy:371
 translate chinese introduction_calmed_down_e603b476:
@@ -748,7 +748,7 @@ translate chinese introduction_calmed_down_d5c202f3:
 translate chinese introduction_calmed_down_34d56ea7:
 
     # n 2kslsr "..."
-    n 2kslsr "..."
+    n 2kslsr "...{w=0.1}"
 
 # game/script-introduction.rpy:384
 translate chinese introduction_calmed_down_f5d78171:
@@ -778,7 +778,7 @@ translate chinese introduction_calmed_down_0e942771:
 translate chinese introduction_calmed_down_c841b704:
 
     # n 1kllsf "..."
-    n 1kllsf "..."
+    n 1kllsf "...{w=0.1}"
 
 # game/script-introduction.rpy:389
 translate chinese introduction_calmed_down_2d929e1f:
@@ -820,7 +820,7 @@ translate chinese introduction_calmed_down_29002b68:
 translate chinese introduction_calmed_down_6554b86d:
 
     # n 1kcspu "..."
-    n 1kcspu "..."
+    n 1kcspu "...{w=0.1}"
 
 # game/script-introduction.rpy:396
 translate chinese introduction_calmed_down_aff7b911:
@@ -844,7 +844,7 @@ translate chinese introduction_calmed_down_e5c9df3f:
 translate chinese introduction_calmed_down_2a04561f:
 
     # n 1kcsun "..."
-    n 1kcsun "..."
+    n 1kcsun "...{w=0.1}"
 
 # game/script-introduction.rpy:400
 translate chinese introduction_calmed_down_70ee0fe9:
@@ -862,7 +862,7 @@ translate chinese introduction_calmed_down_f0f332ab:
 translate chinese introduction_acceptance_ded7f94e:
 
     # n 2nllsl "..."
-    n 2nllsl "..."
+    n 2nllsl "...{w=0.1}"
 
 # game/script-introduction.rpy:414
 translate chinese introduction_acceptance_d2a9427f:
@@ -892,13 +892,13 @@ translate chinese introduction_acceptance_99e397f6:
 translate chinese introduction_acceptance_c478428b:
 
     # n 1kcssl "..."
-    n 1kcssl "..."
+    n 1kcssl "...{w=0.1}"
 
 # game/script-introduction.rpy:419
 translate chinese introduction_acceptance_d7d6c936:
 
     # n 1ksqsl "..."
-    n 1ksqsl "..."
+    n 1ksqsl "...{w=0.1}"
 
 # game/script-introduction.rpy:420
 translate chinese introduction_acceptance_5eddfab2:
@@ -940,13 +940,13 @@ translate chinese introduction_acceptance_9b1bcebb:
 translate chinese introduction_acceptance_14b4408d:
 
     # n 2fslpo "..."
-    n 2fslpo "..."
+    n 2fslpo "...{w=0.1}"
 
 # game/script-introduction.rpy:427
 translate chinese introduction_acceptance_9610490d:
 
     # n 2fcssr "..."
-    n 2fcssr "..."
+    n 2fcssr "...{w=0.1}"
 
 # game/script-introduction.rpy:428
 translate chinese introduction_acceptance_f14803c2:
@@ -976,7 +976,7 @@ translate chinese introduction_acceptance_58d8d444:
 translate chinese introduction_acceptance_7059a308:
 
     # n 3uwdboesu "..."
-    n 3uwdboesu ""
+    n 3uwdboesu "...{w=0.1}"
 
 # game/script-introduction.rpy:438
 translate chinese introduction_acceptance_1e9655fe:
@@ -994,7 +994,7 @@ translate chinese introduction_acceptance_c095dd5c:
 translate chinese introduction_acceptance_6a4d983d:
 
     # n 4nllun "..."
-    n 4nllun "..."
+    n 4nllun "...{w=0.1}"
 
 # game/script-introduction.rpy:441
 translate chinese introduction_acceptance_1dc32344:
@@ -1063,3 +1063,23 @@ translate chinese strings:
     # script-introduction.rpy:359
     old "Take your time, Natsuki."
     new "慢慢来，夏树。"
+# TODO: Translation updated at 2023-06-24 08:00
+
+translate chinese strings:
+
+    # script-introduction.rpy:65
+    old "Restore natsuki.chr"
+    new "修复natsuki.chr"
+# TODO: Translation updated at 2023-06-24 09:42
+
+# game/script-introduction.rpy:271
+translate chinese introduction_collecting_thoughts_e1e8cb2a:
+
+    # n 2klrsf "..."
+    n 2klrsf "...{w=0.1}"
+
+translate chinese strings:
+
+    # script-introduction.rpy:223
+    old "What is your name?"
+    new "你的名字是？"

@@ -148,10 +148,10 @@ label splashscreen:
         "It is designed to be played only after the official game has been completed, and contains spoilers for the official game."
         "Game files for Doki Doki Literature Club are required to play this mod and can be downloaded for free at: http://ddlc.moe"
         $ narrator(
-            "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within.",
+            _("By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."),
             interact=False
         )
-        $ renpy.display_menu(items=[ ("I agree.", True)], screen="choice_centred")
+        $ renpy.display_menu(items=[ (_("I agree."), True)], screen="choice_centred")
         scene tos_b
         with Dissolve(1)
         pause 1.0
@@ -222,7 +222,7 @@ label before_main_menu:
 
     # Prevent the player's menu hotkey from defaulting to Save/Load
     $ store._game_menu_screen  = "preferences"
-    
+
     return
 
 label quit:
