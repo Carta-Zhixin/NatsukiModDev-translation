@@ -1,13 +1,13 @@
 translate chinese python:
-    gui.default_font = "gui/font/loli.ttc"
+    gui.default_font = "gui/font/loli.otf"
     gui.name_font = "gui/font/fz.ttf"
-    gui.interface_font = "gui/font/loli.ttc"
+    gui.interface_font = "gui/font/loli.otf"
     gui.choice_button_text_font = gui.default_font
     gui.button_text_font = gui.interface_font
 
 
 translate chinese style edited:
-    font "gui/font/loli.ttc"
+    font "gui/font/loli.otf"
 
 
 translate chinese style poemgame_text:
